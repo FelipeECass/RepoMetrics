@@ -8,7 +8,7 @@ Neste trabalho o objetivo é minerar os 1000 repositórios com moaior número de
 Data de entrega dia 16/02/2025
 
 * Sprint 02
-Data de entrega dia 21/02/2025
+Data de entrega dia 23/02/2025
 
 * Sprint 03
 Data de entrega dia 28/02/2025
