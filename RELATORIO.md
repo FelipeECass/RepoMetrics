@@ -14,9 +14,9 @@ Este lab 01 do laboratório de experimentação de software tem o objetivo de in
 
 ### Hipóteses Informais
 
-1. Os repositórios populares são antigos
-2. Os repositórios populares tem relevancia para a comunidade
-3. Os repositórios populares possuem muitos releases
+1. Os repositórios populares definidos como os com mais estrelas são antigos e maduros definidos com um tempo de vida de 4 anos ou mais.
+2. Os repositórios populares tem relevancia para a comunidade definidos com o envolvimento da comnidade à partir de pull requsts aceitas. 
+3. Os repositórios populares possuem muitos releases definidos como muitas atualizações do código com novas funcinalidades.
 
 ### RQ
 
