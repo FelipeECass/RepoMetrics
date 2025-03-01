@@ -17,6 +17,7 @@ Este lab 01 do laboratório de experimentação de software tem o objetivo de in
 1. Os repositórios populares definidos como os com mais estrelas são antigos e maduros definidos com um tempo de vida de anos.
 2. Os repositórios populares tem relevancia para a comunidade definidos com o envolvimento da comnidade à partir de pull requests aceitas. 
 3. Os repositórios populares possuem muitos releases definidos como muitas atualizações do código com novas funcinalidades e com frequência.
+4. Objetivo de avaliar o contexto e quais são as caracteristicas dos repositórios populares do github e como eles estão sendo atualizados.
 
 ### RQ
 
@@ -89,8 +90,14 @@ Supomos que essa hipótese é equivocada, pois repositórios mais populares tend
 
 ### Análise
 
+A metodologia deste trabalho consistiu em acessar a API do Github e buscar os 1000 repositórios mais populares definidos como os com mais estrelas e à partir desta base de dados analisamos os repositórios com relação as RQ de 1 a 6 e percebemos que nem todas as RQ foram confirmadas. 
+A RQ1 foi confirmada com a observação de que os repositórios mais populares podem ter uma vantagem de tempo pois por seres mais populares demoraram tempo para atingir este status e mesmo os repositórios mais novos podem ter ttendencia de popularidade e não ter tantas estrelas. Na RQ2 foi observado que o total de pull requests aceitas por contribuição externa é alto e os sistemas populares tem contribuição da comunidade. Na RQ3 não fica evidente que os sistemas populares tem releases frequêntes isso pode ser explicado pelo fato de demorado e difícil construir novas funcionalidades.
+A RQ4 foi confirmada pois os sistemas são atualizados com frequência e quanto aos motivos são variados desde correções de erros a novos requisitos. Para o RQ5 obeserva-se que a linguagem mais popular foi Python isso pode ser explicado pelo facilidade de programamr nessa linguagem e pela fato dela ser antiga. Por fim temos a RQ6 que não parece ser correta porque observamos a métrica e analisamos que  a razão números de issues pelo total de issues fechadas não é tão alta e significativa, além de um tempo de diferença da demanda de novas issues para a sua conclusão.
+
 ---
 
 ### Resultados
+
+Os resultados deste trabalho de laboratório são que os repositórios mais populares do Github são atualizados com frenquência pores não necessariamente são lançados releases do sistema, os repositórios populares são mais antigos e que continuam tendo atualizações diárias e por último as linguagems mais populares deste repositóris são antigas com por exemplo o Python que é a linguagem mais popular. Já a métrica  de números de issues pelo total de issues não é mutos conclusivo por que temos uma dispersão da metrica muito grande nos repositórios e é valido resaltar que o motivos disto pode ser a demanda de resolver issues em comparação ao total de issues possivelmente ter uma diferença de tempo considerável. 
 
 ---
